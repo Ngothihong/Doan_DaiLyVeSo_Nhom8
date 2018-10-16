@@ -111,6 +111,12 @@
     <Compile Include="UI\ucSoluongDK.Designer.cs">
       <DependentUpon>ucSoluongDK.cs</DependentUpon>
     </Compile>
+    <Compile Include="UI\UserControl1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\UserControl1.Designer.cs">
+      <DependentUpon>UserControl1.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="UI\formMain.resx">
       <DependentUpon>formMain.cs</DependentUpon>
     </EmbeddedResource>
